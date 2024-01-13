@@ -1,0 +1,5 @@
+{
+	"standard.enable": false,
+	"appService.defaultWebAppToDeploy": "undefined/subscriptions/0afa3cfe-6a8b-4a6d-a15f-102025d306ef/resourceGroups/twitterCopy/providers/Microsoft.Web/sites/twitterCopy",
+	"appService.deploySubpath": "."
+}
